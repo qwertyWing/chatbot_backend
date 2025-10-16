@@ -1,0 +1,9 @@
+model/
+models/
+checkpoints/
+*.safetensors
+*.bin
+*.pt
+*.onnx
+*.gguf
+huggingface/
